@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-bucket-list/static/css/main.ba1453c2.chunk.css",
+    "main.js": "/react-bucket-list/static/js/main.50b90295.chunk.js",
+    "main.js.map": "/react-bucket-list/static/js/main.50b90295.chunk.js.map",
+    "runtime-main.js": "/react-bucket-list/static/js/runtime-main.16b98d41.js",
+    "runtime-main.js.map": "/react-bucket-list/static/js/runtime-main.16b98d41.js.map",
+    "static/js/2.1b64a0ad.chunk.js": "/react-bucket-list/static/js/2.1b64a0ad.chunk.js",
+    "static/js/2.1b64a0ad.chunk.js.map": "/react-bucket-list/static/js/2.1b64a0ad.chunk.js.map",
+    "index.html": "/react-bucket-list/index.html",
+    "static/css/main.ba1453c2.chunk.css.map": "/react-bucket-list/static/css/main.ba1453c2.chunk.css.map",
+    "static/js/2.1b64a0ad.chunk.js.LICENSE.txt": "/react-bucket-list/static/js/2.1b64a0ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16b98d41.js",
+    "static/js/2.1b64a0ad.chunk.js",
+    "static/css/main.ba1453c2.chunk.css",
+    "static/js/main.50b90295.chunk.js"
+  ]
+}
